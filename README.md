@@ -1,5 +1,5 @@
 # Student_attendence
-Programing Principles Sem1 Univfersity project 
+Programing Principles Sem1 Univfersity project (20 MARCH 2024)
 
 This system 
 1. The systm checks real-time and only allows the student to mark there attendence in the first 15 mintues of class 
