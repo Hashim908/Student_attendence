@@ -1,7 +1,7 @@
 # Student_attendence
 Programing Principles Sem1 Univfersity project (20 MARCH 2024)
 
-This system 
+# System Objective
 1. The systm checks real-time and only allows the student to mark there attendence in the first 15 mintues of class 
 2. create, update and deleate Timetable
 3. records Assignment submisions and deadlines
